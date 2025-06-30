@@ -1,0 +1,23 @@
+{
+    "name": "savings-vault-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for SavingsVault + Lottery DApp",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "node server.js"
+    },
+    "dependencies": {
+        "dotenv": "^17.0.0",
+        "express": "^4.18.2"
+    },
+    "keywords": [
+        "ethereum",
+        "dapp",
+        "savings",
+        "lottery",
+        "defi"
+    ],
+    "author": "SavingsVault Team",
+    "license": "MIT"
+}
